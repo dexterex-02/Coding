@@ -1,0 +1,1 @@
+{"name":"Local: sum_min_max","url":"e:\\Programming\\Coding\\Cpp\\Important Ques\\sum_min_max.cpp","tests":[{"id":1696493882699,"input":"7\n2 5 -1 7 -3 -1 -2\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Coding\\Cpp\\Important Ques\\sum_min_max.cpp","group":"local","local":true}

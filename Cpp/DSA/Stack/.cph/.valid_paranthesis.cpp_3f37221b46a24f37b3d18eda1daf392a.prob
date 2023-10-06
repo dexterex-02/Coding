@@ -1,0 +1,1 @@
+{"name":"Local: valid_paranthesis","url":"e:\\Programming\\Coding\\Cpp\\DSA\\Stack\\valid_paranthesis.cpp","tests":[{"id":1696461753958,"input":"()()(","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Coding\\Cpp\\DSA\\Stack\\valid_paranthesis.cpp","group":"local","local":true}
