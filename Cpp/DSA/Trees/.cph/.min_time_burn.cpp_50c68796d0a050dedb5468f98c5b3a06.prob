@@ -1,0 +1,1 @@
+{"name":"Local: min_time_burn","url":"e:\\Programming\\Coding\\Cpp\\DSA\\Trees\\min_time_burn.cpp","tests":[{"id":1696701074784,"input":"1 2 4 -1 -1 5 7 -1 -1 8 -1 -1 3 -1 6 -1 9 -1 10 -1 -1\n8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Coding\\Cpp\\DSA\\Trees\\min_time_burn.cpp","group":"local","local":true}

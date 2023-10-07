@@ -1,0 +1,1 @@
+{"name":"Local: validate_bst","url":"e:\\Programming\\Coding\\Cpp\\DSA\\BST\\validate_bst.cpp","tests":[{"id":1696701948225,"input":"4 2 1 -1 -1 3 -1 -1 5 -1 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Coding\\Cpp\\DSA\\BST\\validate_bst.cpp","group":"local","local":true}

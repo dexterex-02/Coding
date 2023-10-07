@@ -1,0 +1,1 @@
+{"name":"Local: bst_from_pre","url":"e:\\Programming\\Coding\\Cpp\\DSA\\BST\\bst_from_pre.cpp","tests":[{"id":1696704325105,"input":"8\n20 10 5 15 13 35 30 42","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Coding\\Cpp\\DSA\\BST\\bst_from_pre.cpp","group":"local","local":true}
