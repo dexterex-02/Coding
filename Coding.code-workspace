@@ -6,5 +6,10 @@
     {
       "path": "../Project"
     }
-  ]
+  ],
+  "settings": {
+    "files.associations": {
+      "iostream": "cpp"
+    }
+  }
 }

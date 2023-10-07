@@ -1,1 +1,0 @@
-{"name":"Local: max_rect_bin_mat","url":"e:\\Programming\\Coding\\Cpp\\Important Ques\\max_rect_bin_mat.cpp","tests":[{"id":1696464096831,"input":"4 4\n0 1 1 0\n1 1 1 1\n1 1 1 1\n1 1 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Coding\\Cpp\\Important Ques\\max_rect_bin_mat.cpp","group":"local","local":true}
