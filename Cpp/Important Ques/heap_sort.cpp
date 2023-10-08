@@ -1,3 +1,5 @@
+//!important
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -19,15 +21,26 @@ void heapify(int *arr, int n, int i)
     }
 }
 
+void heapsort(int *arr, int n)
+{
+    int t = n;
+    while (t > 1)
+    {
+        swap(arr[t], arr[1]);
+        t--;
+        heapify(arr, t, 1);
+    }
+}
+
 int main()
 {
     int n;
     cin >> n;
-    int *arr=new int[n + 1];
+    int *arr = new int[n + 1];
     arr[0] = -1;
     for (int i = 1; i <= n; i++)
         cin >> arr[i];
-        
+
     for (int i = n / 2; i > 0; i--)
     {
         heapify(arr, n, i);
@@ -35,5 +48,11 @@ int main()
 
     for (int i = 1; i <= n; i++)
         cout << arr[i] << " ";
+    cout << endl;
+
+    heapsort(arr, n);
+    for (int i = 1; i <= n; i++)
+        cout << arr[i] << " ";
+    cout << endl;
     return 0;
 }
