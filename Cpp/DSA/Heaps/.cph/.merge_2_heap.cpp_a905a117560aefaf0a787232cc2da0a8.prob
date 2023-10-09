@@ -1,0 +1,1 @@
+{"name":"Local: merge_2_heap","url":"e:\\Programming\\Coding\\Cpp\\DSA\\Heaps\\merge_2_heap.cpp","tests":[{"id":1696796327516,"input":"4\n10 5 6 2\n3\n12 7 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Coding\\Cpp\\DSA\\Heaps\\merge_2_heap.cpp","group":"local","local":true}
